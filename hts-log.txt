@@ -1,0 +1,19 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 10 Mar 2025 01:00:42 at https://mobilesms.io/free-sms-verification/philippines-number-1/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://mobilesms.io/free-sms-verification/philippines-number-1/ -O1 "C:\Users\Administrator\Downloads\OnlineSIM\ONLINE SIM" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+01:01:26	Error: 	"Not Found" (404) at link https://mobilesms.io/free-sms-verification/philippines-number-1/e,c.location.href (from https://mobilesms.io/free-sms-verification/philippines-number-1/)
+01:01:26	Error: 	"Not Found" (404) at link https://mobilesms.io/free-sms-verification/philippines-number-1/d,c.location.href (from https://mobilesms.io/free-sms-verification/philippines-number-1/)
+01:01:26	Error: 	"Not Found" (404) at link https://mobilesms.io/free-sms-verification/philippines-number-1/i,c.location.href (from https://mobilesms.io/free-sms-verification/philippines-number-1/)
+01:01:27	Warning: 	Retry after error -4 (Connect Error) at link https://www.googletagmanager.com/gtm.js?id= (from https://mobilesms.io/free-sms-verification/philippines-number-1/)
+01:01:27	Error: 	"Not Found" (404) at link https://mobilesms.io/free-sms-verification/philippines-number-1/%22/privacy-cookies-policy (from https://mobilesms.io/free-sms-verification/philippines-number-1/)
+01:01:27	Error: 	"Not Found" (404) at link https://mobilesms.io/free-sms-verification/philippines-number-1/%22/terms-and-conditions (from https://mobilesms.io/free-sms-verification/philippines-number-1/)
+01:01:48	Warning: 	Retry after error -4 (Connect Error) at link https://www.googletagmanager.com/gtm.js?id= (from https://mobilesms.io/free-sms-verification/philippines-number-1/)
+01:02:09	Error: 	"Connect Error" (-4) after 2 retries at link https://www.googletagmanager.com/gtm.js?id= (from https://mobilesms.io/free-sms-verification/philippines-number-1/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 27 seconds : 55 links scanned, 46 files written (3318575 bytes overall) [1586457 bytes received at 18235 bytes/sec], 4172012 bytes transferred using HTTP compression in 36 files, ratio 14%, 7.7 requests per connection
+(6 errors, 2 warnings, 0 messages)

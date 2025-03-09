@@ -1,0 +1,29 @@
+/**
+Theme Name: Receive SMS Online - MobileSMS.io
+Author: MobileSMS.io
+Author URI: https://mobilesms.io
+Description: Receive SMS Online with Disposable Mobile Phone Numbers From MobileSMS.io. We provide temporary phone numbers so you can receive sms online. Our burner phone numbers include real sim-card phone numbers from USA, United Kingdom (UK), China, India, Germany, and many more!
+Version: 2.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: receive-sms-online-mobilesms-io
+Template: astra
+*/
+
+#login-captcha > div {
+  margin: 0 auto;
+  margin-bottom: 3px;
+
+}
+
+#signup-captcha > div {
+  margin: 0 auto;
+  margin-bottom: 3px;
+
+}
+
+#reset-captcha > div {
+  margin: 0 auto;
+  margin-bottom: 3px;
+
+}
